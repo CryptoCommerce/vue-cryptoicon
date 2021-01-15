@@ -408,6 +408,7 @@ import Tzc from './tzc';
 // U icons
 import Ubq from './ubq';
 import Unity from './unity';
+import Uni from './uni';
 import Usd from './usd';
 import Usdc from './usdc';
 import Usdt from './usdt';
@@ -873,6 +874,7 @@ export {
   // U starts
   Ubq,
   Unity,
+  Uni,
   Usd,
   Usdc,
   Usdt,
